@@ -2,6 +2,6 @@
 - 👀 I’m interested in **programming**
 - 🌱 I’m currently learning **C++ & C#**
 - 💞️ I’m looking to collaborate on **horror projects**
-- 📫 How to reach me **you don't**
+- 📫 How to reach me: **you don't**
 - 😄 Pronouns: **man**
 - ⚡ Fun fact: **there's bugs in your skin**
